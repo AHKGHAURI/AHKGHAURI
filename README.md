@@ -57,6 +57,8 @@ I like taking an idea from a lecture or a paper and turning it into something th
       <img alt="Git" src="https://img.shields.io/badge/Git-161B22?style=flat-square&logo=git&logoColor=white">
       <img alt="GitHub" src="https://img.shields.io/badge/GitHub-161B22?style=flat-square&logo=github&logoColor=white">
       <img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-161B22?style=flat-square">
+      <img alt="ModelSim" src="https://img.shields.io/badge/ModelSim-161B22?style=flat-square">
+      <img alt="Proteus" src="https://img.shields.io/badge/Proteus-161B22?style=flat-square">
     </td>
   </tr>
 </table>
@@ -67,9 +69,10 @@ I like taking an idea from a lecture or a paper and turning it into something th
 
 | Project | What it is | Stack |
 |---|---|---|
+| [**24-Hour Digital Clock**](https://github.com/AHKGHAURI/digital-clock-cd4026) | HH:MM:SS clock built three ways: a CD4026 / NE555 circuit simulated in Proteus, the physical hardware, and a Verilog re-implementation verified in ModelSim. Group project for Digital Logic Design. | Verilog · Proteus · ModelSim |
 | **Vigenère Cipher File Tool** | Console program that encrypts and decrypts text files with a Vigenère cipher and a user-supplied key. Group project — repository private while I extend it. | C++ |
 
-<sub>More projects in embedded systems and digital design will appear here as I finish them.</sub>
+<sub>More projects in embedded systems and machine learning will appear here as I finish them.</sub>
 
 <!--
   GitHub stats cards — intentionally left out while the account is new.
